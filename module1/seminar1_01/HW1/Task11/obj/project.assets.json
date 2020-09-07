@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sofya/Documents/school/207TimokhinaSofya/module1/seminar1_01/HW1/Task10.csproj",
-      "projectName": "Task10",
-      "projectPath": "/Users/sofya/Documents/school/207TimokhinaSofya/module1/seminar1_01/HW1/Task10.csproj",
+      "projectUniqueName": "/Users/sofya/Documents/school/207TimokhinaSofya/module1/seminar1_01/HW1/Task11/Task11.csproj",
+      "projectName": "Task11",
+      "projectPath": "/Users/sofya/Documents/school/207TimokhinaSofya/module1/seminar1_01/HW1/Task11/Task11.csproj",
       "packagesPath": "/Users/sofya/.nuget/packages/",
-      "outputPath": "/Users/sofya/Documents/school/207TimokhinaSofya/module1/seminar1_01/HW1/obj/",
+      "outputPath": "/Users/sofya/Documents/school/207TimokhinaSofya/module1/seminar1_01/HW1/Task11/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
