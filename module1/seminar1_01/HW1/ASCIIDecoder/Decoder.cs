@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ASCIIDecoder
 {
@@ -6,7 +6,8 @@ namespace ASCIIDecoder
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int Code = int.Parse(Console.ReadLine());
+            Console.WriteLine((char)Code);
         }
     }
 }
