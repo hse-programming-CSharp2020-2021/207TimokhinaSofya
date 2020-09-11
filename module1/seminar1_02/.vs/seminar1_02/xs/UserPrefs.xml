@@ -7,8 +7,10 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="seminar1_02" expanded="True">
-            <Node name="Task1" selected="True" />
-            <Node name="Task3" expanded="True" />
+            <Node name="Task1" expanded="True" />
+            <Node name="Task3" expanded="True">
+              <Node name="Task3.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
