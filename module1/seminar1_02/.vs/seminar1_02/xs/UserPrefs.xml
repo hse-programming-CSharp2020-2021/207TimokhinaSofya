@@ -1,9 +1,11 @@
-﻿<Properties StartupConfiguration="{548E012F-21F2-4362-A8B1-D83ABC16F01C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Task3/Task3.cs">
+﻿<Properties StartupConfiguration="{7A25C006-CEED-4833-A4F5-BEB844D70343}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task5/Task5.cs">
     <Files>
       <File FileName="Task1/Task1.cs" Line="13" Column="51" />
       <File FileName="Task3/Program.cs" Line="24" Column="70" />
-      <File FileName="Task2/Task2.cs" Line="13" Column="9" />
+      <File FileName="Task2/Task2.cs" Line="16" Column="13" />
+      <File FileName="Task4/Program.cs" Line="10" Column="63" />
+      <File FileName="Task5/Program.cs" Line="23" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,17 +13,24 @@
           <Node name="seminar1_02" expanded="True">
             <Node name="Task1" expanded="True" />
             <Node name="Task2" expanded="True" />
-            <Node name="Task3" expanded="True">
-              <Node name="Task3.cs" selected="True" />
+            <Node name="Task3" expanded="True" />
+            <Node name="Task4" expanded="True" />
+            <Node name="Task5" expanded="True">
+              <Node name="Task5.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Task1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task5 FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Task4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
