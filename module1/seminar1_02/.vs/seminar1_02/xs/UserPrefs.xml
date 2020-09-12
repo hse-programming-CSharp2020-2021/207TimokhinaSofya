@@ -1,34 +1,31 @@
-﻿<Properties StartupConfiguration="{7A25C006-CEED-4833-A4F5-BEB844D70343}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Task5/Task5.cs">
+﻿<Properties StartupConfiguration="{38EB30C4-5BE1-4891-9B54-AFB7481A9E95}|Default">
+  <MonoDevelop.Ide.ItemProperties.hw__3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.hw__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.hw__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.hw__7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="hw_7/Program.cs">
     <Files>
-      <File FileName="Task1/Task1.cs" Line="13" Column="51" />
-      <File FileName="Task3/Program.cs" Line="24" Column="70" />
-      <File FileName="Task2/Task2.cs" Line="16" Column="13" />
-      <File FileName="Task4/Program.cs" Line="10" Column="63" />
-      <File FileName="Task5/Program.cs" Line="23" Column="10" />
+      <File FileName="hw_6/Program.cs" Line="24" Column="18" />
+      <File FileName="hw_5/Program.cs" Line="1" Column="1" />
+      <File FileName="hw_4/Program.cs" Line="1" Column="1" />
+      <File FileName="hw_3/Program.cs" Line="19" Column="110" />
+      <File FileName="hw_2/Program.cs" Line="1" Column="1" />
+      <File FileName="hw_1/Program.cs" Line="9" Column="31" />
+      <File FileName="hw_7/Program.cs" Line="28" Column="96" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="seminar1_02" expanded="True">
-            <Node name="Task1" expanded="True" />
-            <Node name="Task2" expanded="True" />
-            <Node name="Task3" expanded="True" />
-            <Node name="Task4" expanded="True" />
-            <Node name="Task5" expanded="True">
-              <Node name="Task5.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="seminar1_02" expanded="True" />
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Task1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Task5 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.hw__6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.hw__4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.hw__5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Task4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -36,5 +33,4 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Task2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Task3 FirstBuild="True" />
 </Properties>
