@@ -6,20 +6,27 @@ namespace hw_4
     {
         static void Main(string[] args)
         {
-            string number = Console.ReadLine();
-            if (int.TryParse(number, out int sucsess) && number.Length == 4)
+            Console.WriteLine("Для выхода нажмите ESC");
+            do
             {
-                char[] str = number.ToCharArray();
-                Array.Reverse(str);
-                foreach (char el in str)
+                string number = Console.ReadLine();
+                if (int.TryParse(number, out int sucsess) && number.Length == 4) //проверка введенных данных, можно было через try
                 {
-                    Console.WriteLine(el);
+                    //все элементы введенного числа в записываются в массив
+                    //можно было пройти циклом (отдельный метод), идти с конца строки и записывать в новую 
+                    char[] str = number.ToCharArray();
+                    Array.Reverse(str); //переворачиваем массив
+                    //идем по элементам 
+                    foreach (char el in str)
+                    {
+                        Console.WriteLine(el);
+                    }
                 }
-            }
-            else
-            {
-                Console.WriteLine("Ошибка");
-            }
+                else
+                {
+                    Console.WriteLine("Ошибка");
+                }
+            } while (Console.ReadKey(true).Key != ConsoleKey.Escape) ;
         }
     }
 }

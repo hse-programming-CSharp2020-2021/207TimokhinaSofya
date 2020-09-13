@@ -7,15 +7,21 @@ namespace hw_2
     {
         static void Main(string[] args)
         {
-            if (int.TryParse(Console.ReadLine(), out int P) && P.ToString().Length == 3)
+            Console.WriteLine("Для выхода нажмите ESC");
+            do
             {
-                var digits = P.ToString().ToList().OrderByDescending(x=>x);
-                Console.WriteLine(string.Join("", digits));
-            }
-            else
-            { 
-                Console.WriteLine("Ошибка");
-            }
+                Console.Write("Введите трехзначное число: ");
+                if (int.TryParse(Console.ReadLine(), out int P) && P.ToString().Length == 3) //проверка введенных данных (число +  длина
+                {
+                    var digits = P.ToString().ToList().OrderByDescending(x => x); //сортировка.
+                    //можно было засписать в отдельный метод, я пользовалась встроенной
+                    Console.WriteLine(string.Join("", digits)); //из массива в строку
+                }
+                else
+                {
+                    Console.WriteLine("Ошибка");
+                }
+            }  while (Console.ReadKey(true).Key != ConsoleKey.Escape);
         }
     }
 }
