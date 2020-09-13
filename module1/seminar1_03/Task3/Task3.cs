@@ -10,9 +10,9 @@ namespace Task3
         }
         static void Main(string[] args)
         {
+            Console.WriteLine("Для выхода нажмите esc");
             do
             {
-                double area = 0;
                 Console.WriteLine("Введите A и delta.");
                 if (!(double.TryParse(Console.ReadLine(), out double delta) &&
                     double.TryParse(Console.ReadLine(), out double A)))
