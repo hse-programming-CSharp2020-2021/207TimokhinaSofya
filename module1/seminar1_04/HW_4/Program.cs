@@ -6,7 +6,22 @@ namespace HW_4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Введите N: ");
+            if (!int.TryParse(Console.ReadLine(), out int N) || N < 0)
+            {
+                Console.WriteLine("Ошибка");
+                return;
+            }
+            Console.Write("Введите M: ");
+            if (!int.TryParse(Console.ReadLine(), out int M) || M < 0)
+            {
+                Console.WriteLine("Ошибка");
+                return;
+            }
+            // M = 1 << M;
+            // N = 1 << N;
+            Console.WriteLine(1 << N + 1 << M);
+            Console.ReadLine();
         }
     }
 }
