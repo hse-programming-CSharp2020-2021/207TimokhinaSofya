@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Test
 {
@@ -6,7 +7,10 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] ar = { -1, -5, 0, -108, 34, 35, 21 };
+            int maxValue = ar.OrderByDescending(x => Math.Abs(x)).First();
+            Console.WriteLine(maxValue);
+            Console.ReadLine();
         }
     }
 }

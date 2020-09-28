@@ -18,9 +18,9 @@ namespace HW_4
                 Console.WriteLine("Ошибка");
                 return;
             }
-            // M = 1 << M;
-            // N = 1 << N;
-            Console.WriteLine(1 << N + 1 << M);
+            M = 1 << M;
+            N = 1 << N;
+            Console.WriteLine(N + M);
             Console.ReadLine();
         }
     }
