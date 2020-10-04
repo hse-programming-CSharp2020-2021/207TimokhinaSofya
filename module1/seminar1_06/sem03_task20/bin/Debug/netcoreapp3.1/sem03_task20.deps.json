@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "sem03_task20/1.0.0": {
+        "runtime": {
+          "sem03_task20.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sem03_task20/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
