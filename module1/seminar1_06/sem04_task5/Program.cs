@@ -24,7 +24,7 @@ namespace sem04_task5
             Console.WriteLine("Вывод 3:");
             third(N, array);
             Console.WriteLine("Вывод 4: ");
-            // ??
+            Console.WriteLine("Я не поняла :(");
             Console.ReadLine();
         }
 

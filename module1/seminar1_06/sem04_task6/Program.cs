@@ -14,7 +14,6 @@ namespace sem04_task6
             for (int i = 0; i < 2; i ++)
             {
                 int k = i * 3;
-                Console.WriteLine(array[0][5]);
                 new_array[i] = array[0][k] * array[1][k + 1] * array[2][k + 2] +
                 array[0][1 + k] * array[1][2 + k] * array[2][k] +
                 array[0][2 + k] * array[1][k] * array[2][1 + k] -
