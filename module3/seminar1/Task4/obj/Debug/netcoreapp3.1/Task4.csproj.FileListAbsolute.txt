@@ -1,0 +1,12 @@
+/Users/sprh.t/Documents/207TimokhinaSofya/module3/seminar1/Task4/bin/Debug/netcoreapp3.1/Task4.deps.json
+/Users/sprh.t/Documents/207TimokhinaSofya/module3/seminar1/Task4/bin/Debug/netcoreapp3.1/Task4.runtimeconfig.json
+/Users/sprh.t/Documents/207TimokhinaSofya/module3/seminar1/Task4/bin/Debug/netcoreapp3.1/Task4.runtimeconfig.dev.json
+/Users/sprh.t/Documents/207TimokhinaSofya/module3/seminar1/Task4/bin/Debug/netcoreapp3.1/Task4.dll
+/Users/sprh.t/Documents/207TimokhinaSofya/module3/seminar1/Task4/bin/Debug/netcoreapp3.1/Task4.pdb
+/Users/sprh.t/Documents/207TimokhinaSofya/module3/seminar1/Task4/obj/Debug/netcoreapp3.1/Task4.csprojAssemblyReference.cache
+/Users/sprh.t/Documents/207TimokhinaSofya/module3/seminar1/Task4/obj/Debug/netcoreapp3.1/Task4.AssemblyInfoInputs.cache
+/Users/sprh.t/Documents/207TimokhinaSofya/module3/seminar1/Task4/obj/Debug/netcoreapp3.1/Task4.AssemblyInfo.cs
+/Users/sprh.t/Documents/207TimokhinaSofya/module3/seminar1/Task4/obj/Debug/netcoreapp3.1/Task4.csproj.CoreCompileInputs.cache
+/Users/sprh.t/Documents/207TimokhinaSofya/module3/seminar1/Task4/obj/Debug/netcoreapp3.1/Task4.dll
+/Users/sprh.t/Documents/207TimokhinaSofya/module3/seminar1/Task4/obj/Debug/netcoreapp3.1/Task4.pdb
+/Users/sprh.t/Documents/207TimokhinaSofya/module3/seminar1/Task4/obj/Debug/netcoreapp3.1/Task4.genruntimeconfig.cache

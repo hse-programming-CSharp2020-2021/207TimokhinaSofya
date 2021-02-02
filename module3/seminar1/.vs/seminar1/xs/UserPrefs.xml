@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{FDAE9099-288E-41B3-B1FD-EA888AE05C85}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task4/Program.cs">
+    <Files>
+      <File FileName="Task1/Program.cs" Line="30" Column="1" />
+      <File FileName="Task2/Program.cs" Line="24" Column="1" />
+      <File FileName="Task3/Program.cs" Line="13" Column="10" />
+      <File FileName="Task4/Program.cs" Line="93" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="seminar1" expanded="True">
+            <Node name="Task1" expanded="True" />
+            <Node name="Task2" expanded="True" />
+            <Node name="Task3" expanded="True" />
+            <Node name="Task4" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Task4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Task2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B03C8493-3AC4-4736-BE7A-CF73D9D3F7BA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task1/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Task1/Program.cs" Line="9" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Семинар1" expanded="True">
+            <Node name="Task1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Семинар1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Семинар1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
