@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<University xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UniversityName>name1</UniversityName>
+  <Departments>
+    <Dept>
+      <DeptName>dept1</DeptName>
+      <Staff>
+        <Human>
+          <Name>1</Name>
+        </Human>
+        <Human>
+          <Name>2</Name>
+        </Human>
+      </Staff>
+    </Dept>
+    <Dept>
+      <DeptName>dept2</DeptName>
+      <Staff>
+        <Human>
+          <Name>3</Name>
+        </Human>
+        <Human>
+          <Name>4</Name>
+        </Human>
+      </Staff>
+    </Dept>
+  </Departments>
+</University>

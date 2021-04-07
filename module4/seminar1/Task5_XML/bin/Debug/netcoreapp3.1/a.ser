@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Multiple xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>восемь</name>
+  <divisor>8</divisor>
+  <set>
+    <int>0</int>
+    <int>8</int>
+    <int>16</int>
+    <int>24</int>
+    <int>32</int>
+    <int>40</int>
+    <int>48</int>
+    <int>56</int>
+    <int>64</int>
+    <int>72</int>
+    <int>80</int>
+    <int>88</int>
+    <int>96</int>
+  </set>
+</Multiple>
