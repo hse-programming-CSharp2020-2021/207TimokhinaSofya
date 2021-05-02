@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<ArrayOfConsoleSimbolStruct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ConsoleSimbolStruct xsi:type="ColorConsoleSimbol">
+    <Simb>112</Simb>
+    <X>80</X>
+    <Y>64</Y>
+  </ConsoleSimbolStruct>
+  <ConsoleSimbolStruct>
+    <Simb>98</Simb>
+    <X>38</X>
+    <Y>82</Y>
+  </ConsoleSimbolStruct>
+  <ConsoleSimbolStruct xsi:type="ColorConsoleSimbol">
+    <Simb>102</Simb>
+    <X>41</X>
+    <Y>52</Y>
+  </ConsoleSimbolStruct>
+  <ConsoleSimbolStruct xsi:type="ColorConsoleSimbol">
+    <Simb>102</Simb>
+    <X>33</X>
+    <Y>95</Y>
+  </ConsoleSimbolStruct>
+  <ConsoleSimbolStruct xsi:type="ColorConsoleSimbol">
+    <Simb>115</Simb>
+    <X>95</X>
+    <Y>89</Y>
+  </ConsoleSimbolStruct>
+  <ConsoleSimbolStruct>
+    <Simb>106</Simb>
+    <X>76</X>
+    <Y>65</Y>
+  </ConsoleSimbolStruct>
+  <ConsoleSimbolStruct>
+    <Simb>101</Simb>
+    <X>50</X>
+    <Y>55</Y>
+  </ConsoleSimbolStruct>
+  <ConsoleSimbolStruct>
+    <Simb>117</Simb>
+    <X>95</X>
+    <Y>18</Y>
+  </ConsoleSimbolStruct>
+  <ConsoleSimbolStruct xsi:type="ColorConsoleSimbol">
+    <Simb>118</Simb>
+    <X>13</X>
+    <Y>75</Y>
+  </ConsoleSimbolStruct>
+  <ConsoleSimbolStruct>
+    <Simb>115</Simb>
+    <X>14</X>
+    <Y>31</Y>
+  </ConsoleSimbolStruct>
+  <ConsoleSimbolStruct xsi:type="ColorConsoleSimbol">
+    <Simb>119</Simb>
+    <X>14</X>
+    <Y>71</Y>
+  </ConsoleSimbolStruct>
+  <ConsoleSimbolStruct>
+    <Simb>104</Simb>
+    <X>72</X>
+    <Y>61</Y>
+  </ConsoleSimbolStruct>
+  <ConsoleSimbolStruct xsi:type="ColorConsoleSimbol">
+    <Simb>105</Simb>
+    <X>82</X>
+    <Y>58</Y>
+  </ConsoleSimbolStruct>
+  <ConsoleSimbolStruct>
+    <Simb>118</Simb>
+    <X>91</X>
+    <Y>27</Y>
+  </ConsoleSimbolStruct>
+  <ConsoleSimbolStruct>
+    <Simb>119</Simb>
+    <X>38</X>
+    <Y>25</Y>
+  </ConsoleSimbolStruct>
+  <ConsoleSimbolStruct xsi:type="ColorConsoleSimbol">
+    <Simb>99</Simb>
+    <X>62</X>
+    <Y>81</Y>
+  </ConsoleSimbolStruct>
+  <ConsoleSimbolStruct xsi:type="ColorConsoleSimbol">
+    <Simb>116</Simb>
+    <X>34</X>
+    <Y>80</Y>
+  </ConsoleSimbolStruct>
+  <ConsoleSimbolStruct xsi:type="ColorConsoleSimbol">
+    <Simb>116</Simb>
+    <X>82</X>
+    <Y>45</Y>
+  </ConsoleSimbolStruct>
+</ArrayOfConsoleSimbolStruct>
