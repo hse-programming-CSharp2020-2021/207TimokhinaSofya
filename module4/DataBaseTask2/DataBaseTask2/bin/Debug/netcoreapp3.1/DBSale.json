@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "IdBuyer": 1,
+    "IdShop": 1,
+    "IdGood": 1,
+    "GoodCount": 10,
+    "GoodPrice": 100
+  },
+  {
+    "Id": 1,
+    "IdBuyer": 2,
+    "IdShop": 2,
+    "IdGood": 3,
+    "GoodCount": 100,
+    "GoodPrice": 12
+  },
+  {
+    "Id": 1,
+    "IdBuyer": 2,
+    "IdShop": 2,
+    "IdGood": 2,
+    "GoodCount": 19,
+    "GoodPrice": 12
+  },
+  {
+    "Id": 1,
+    "IdBuyer": 3,
+    "IdShop": 1,
+    "IdGood": 2,
+    "GoodCount": 155,
+    "GoodPrice": 100
+  }
+]

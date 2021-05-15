@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Name": "Auchan",
+    "City": "city1",
+    "Neighbourhood": "Auchan",
+    "Country": "Auchan",
+    "PhoneNumber": "\u002B1 (123) 456-78-90"
+  },
+  {
+    "Id": 2,
+    "Name": "Magnit",
+    "City": "city2",
+    "Neighbourhood": "Magnit",
+    "Country": "Magnit",
+    "PhoneNumber": "\u002B0 (987) 654 32-10"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 0,
+    "Name": "Pepsi",
+    "ShopId": 1,
+    "Category": "Pepsi",
+    "Description": "Pepsi"
+  },
+  {
+    "Id": 1,
+    "Name": "3 korochki",
+    "ShopId": 1,
+    "Category": "3 korochki",
+    "Description": "3 korochki"
+  },
+  {
+    "Id": 2,
+    "Name": "Ohota",
+    "ShopId": 2,
+    "Category": "Ohota",
+    "Description": "Ohota"
+  },
+  {
+    "Id": 3,
+    "Name": "Lays",
+    "ShopId": 3,
+    "Category": "Lays",
+    "Description": "Lays"
+  }
+]
